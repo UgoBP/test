@@ -1,0 +1,150 @@
+d_codigo;Colonia;Tipo;Municipio;Estado;d_ciudad;c_estado;c_oficina;c_CP;c_tipo_asenta;c_mnpio;id_asenta_cpcons;d_zona;c_cve_ciudad
+1000;San Ángel;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;1;Urbano;1
+1010;Los Alpes;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;5;Urbano;1
+1020;Guadalupe Inn;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;6;Urbano;1
+1029;INFONAVIT;Gran usuario;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;22;10;8;Urbano;1
+1030;Florida;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;10;Urbano;1
+1030;Axotla;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;28;10;9;Urbano;1
+1040;Campestre;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;12;Urbano;1
+1048;Las Águilas;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;31;10;13;Urbano;1
+1049;Tlacopac;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;28;10;14;Urbano;1
+1050;Ex-Hacienda de Guadalupe Chimalistac;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;16;Urbano;1
+1060;Altavista;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;17;Urbano;1
+1060;San Ángel Inn;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;18;Urbano;1
+1070;Chimalistac;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;19;Urbano;1
+1080;Progreso Tizapan;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;22;Urbano;1
+1089;Ermita Tizapan;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;9;10;24;Urbano;1
+1090;Tizapan;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;28;10;28;Urbano;1
+1090;Loreto;Barrio;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;2;10;26;Urbano;1
+1090;La Otra Banda;Barrio;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1001;;2;10;25;Urbano;1
+1100;Pólvora;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;31;Urbano;1
+1100;Lomas de Santo Domingo;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;31;10;29;Urbano;1
+1109;La Conchita;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;33;Urbano;1
+1110;Belém de las Flores;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;34;Urbano;1
+1110;El Capulín;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;36;Urbano;1
+1110;Liberales de 1857;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;39;Urbano;1
+1110;Ampliación El Capulín;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;37;Urbano;1
+1120;Sears Roebuck;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;31;10;50;Urbano;1
+1120;Las Américas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;47;Urbano;1
+1120;Cove;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;44;Urbano;1
+1120;Acueducto;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;42;Urbano;1
+1120;Hidalgo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;46;Urbano;1
+1125;Ampliación Acueducto;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;43;Urbano;1
+1130;Molino de Santo Domingo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;53;Urbano;1
+1130;Molino de Santo Domingo;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;31;10;54;Urbano;1
+1130;Paraíso;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;52;Urbano;1
+1130;Real del Monte;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;56;Urbano;1
+1139;Reacomodo Pino Suárez;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;58;Urbano;1
+1140;Bellavista;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;59;Urbano;1
+1140;José Maria Pino Suárez;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;60;Urbano;1
+1150;Tolteca;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;64;Urbano;1
+1150;Cristo Rey;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;63;Urbano;1
+1159;Delegación Política Álvaro Obregón;Gran usuario;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;22;10;65;Urbano;1
+1160;Maria G. de García Ruiz;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;68;Urbano;1
+1160;1a Victoria;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;69;Urbano;1
+1160;Isidro Fabela;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;67;Urbano;1
+1160;Bosque;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;66;Urbano;1
+1170;Abraham M. González;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;74;Urbano;1
+1170;Santa Fe IMSS;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;31;10;75;Urbano;1
+1180;Carola;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;76;Urbano;1
+1180;San Pedro de los Pinos;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;78;Urbano;1
+1180;8 de Agosto;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;9;10;77;Urbano;1
+1184;Nelli Campo Bello;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1131;;31;10;2720;Urbano;1
+1200;Arturo Martínez;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;79;Urbano;1
+1210;Santa Fe;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;28;10;82;Urbano;1
+1219;Lomas de Santa Fe;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;84;Urbano;1
+1220;Bonanza;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;85;Urbano;1
+1220;Cuevitas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;86;Urbano;1
+1220;La Estrella;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;2681;Urbano;1
+1220;Zenón Delgado;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;90;Urbano;1
+1220;Mártires de Tacubaya;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;89;Urbano;1
+1220;El Cuernito;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;87;Urbano;1
+1230;El Piru 2a Ampliación;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;224;Urbano;1
+1230;Los Gamitos;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;97;Urbano;1
+1230;Tlapechico;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;98;Urbano;1
+1230;El Piru Santa Fe;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;132;Urbano;1
+1230;Campo de Tiro los Gamitos;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;92;Urbano;1
+1239;La Huerta;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;102;Urbano;1
+1240;Pueblo Nuevo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;103;Urbano;1
+1250;Margarita Maza de Juárez;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;107;Urbano;1
+1250;El Árbol;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;104;Urbano;1
+1250;Ladera;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;105;Urbano;1
+1250;Tecolalco;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;108;Urbano;1
+1250;Lomas de Nuevo México;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;106;Urbano;1
+1259;Ampliación La Cebada;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;109;Urbano;1
+1259;La Mexicana 2a Ampliación;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;2845;Urbano;1
+1260;La Mexicana;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;112;Urbano;1
+1260;La Palmita;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;114;Urbano;1
+1260;Liberación Proletaria;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;115;Urbano;1
+1260;Ampliación La Mexicana;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;113;Urbano;1
+1260;Calzada Jalalpa;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;110;Urbano;1
+1269;2a Sección Cañada;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;118;Urbano;1
+1269;1a Sección Cañada;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;117;Urbano;1
+1270;La Presa;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;121;Urbano;1
+1270;Golondrinas 2a Sección;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;125;Urbano;1
+1270;Golondrinas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;123;Urbano;1
+1270;Golondrinas 1a Sección;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;124;Urbano;1
+1270;El Tejocote;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;120;Urbano;1
+1270;Lomas de Capula;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;127;Urbano;1
+1275;Villa Solidaridad;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;131;Urbano;1
+1276;El Pirul;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;93;Urbano;1
+1278;Desarrollo Urbano;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;133;Urbano;1
+1279;Lomas de Becerra;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;136;Urbano;1
+1280;Arvide;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;138;Urbano;1
+1280;La Joya;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;141;Urbano;1
+1280;El Pocito;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;139;Urbano;1
+1280;Francisco Villa;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;140;Urbano;1
+1280;Lomas de Becerra;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;31;10;143;Urbano;1
+1285;El Rodeo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;144;Urbano;1
+1289;Reacomodo El Cuernito;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;146;Urbano;1
+1290;Piloto Adolfo López Mateos;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;147;Urbano;1
+1290;Presidentes;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;148;Urbano;1
+1296;Ampliación Jalalpa;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;153;Urbano;1
+1296;Jalalpa Tepito;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;154;Urbano;1
+1296;Jalalpa Tepito 2a Ampliación;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;152;Urbano;1
+1298;Ampliación Piloto Adolfo López Mateos;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;156;Urbano;1
+1299;1a Ampliación Presidentes;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;160;Urbano;1
+1299;2a Ampliación Presidentes;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;161;Urbano;1
+1310;San Gabriel;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;163;Urbano;1
+1320;Carlos A. Madrazo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;164;Urbano;1
+1330;Paseo de las Lomas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;168;Urbano;1
+1340;Bejero del Pueblo Santa Fe;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;170;Urbano;1
+1376;Santa Fe Peña Blanca;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;2682;Urbano;1
+1376;Santa Fe;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;171;Urbano;1
+1376;Santa Fe La Loma;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;2683;Urbano;1
+1376;Santa Fe Centro Ciudad;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;2864;Urbano;1
+1377;Jalalpa El Grande;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;172;Urbano;1
+1379;Antonio Carrillo Flores;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;31;10;174;Urbano;1
+1389;Santa Fe Tlayapaca;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1291;;9;10;176;Urbano;1
+1400;Olivar del Conde 1a Sección;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;181;Urbano;1
+1400;Preconcreto;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;184;Urbano;1
+1407;Galeana;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;187;Urbano;1
+1408;Olivar del Conde 2a Sección;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;188;Urbano;1
+1410;Palmas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;194;Urbano;1
+1410;Barrio Norte;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;193;Urbano;1
+1419;Minas Cristo Rey;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;195;Urbano;1
+1420;Santa María Nonoalco;Barrio;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;2;10;197;Urbano;1
+1420;Sacramento;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;196;Urbano;1
+1430;Colina del Sur;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;198;Urbano;1
+1440;Abeto;Condominio;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;10;10;199;Urbano;1
+1450;Unidad Popular Emiliano Zapata;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;31;10;2635;Urbano;1
+1450;Batallón de San Patricio;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;31;10;201;Urbano;1
+1450;Hogar y Redención;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;202;Urbano;1
+1450;Cañada del Olivar;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;31;10;2634;Urbano;1
+1460;Alfonso XIII;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;204;Urbano;1
+1470;Molino de Rosas;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;207;Urbano;1
+1470;Alfalfar;Barrio;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;2;10;206;Urbano;1
+1480;Lomas de Plateros;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;209;Urbano;1
+1490;Torres de Mixcoac;Unidad habitacional;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;31;10;212;Urbano;1
+1490;La Cascada;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;211;Urbano;1
+1500;Santa Lucía;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;28;10;213;Urbano;1
+1500;Miguel Gaona Armenta;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;2704;Urbano;1
+1509;Santa Lucía Chantepec;Pueblo;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;28;10;221;Urbano;1
+1510;La Araña;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;223;Urbano;1
+1510;Garcimarrero;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;222;Urbano;1
+1510;Los Cedros;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;2636;Urbano;1
+1520;Estado de Hidalgo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;225;Urbano;1
+1520;Ampliación Los Pirules;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;94;Urbano;1
+1520;Ampliación Estado de Hidalgo;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;226;Urbano;1
+1520;Piru Santa Lucía;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;227;Urbano;1
+1520;El Politoco;Colonia;Álvaro Obregón;Distrito Federal;Ciudad de México;9;1401;;9;10;2841;Urbano;1

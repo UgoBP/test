@@ -1,0 +1,49 @@
+// ############################
+// ###   modelo documento   ### 
+// ############################
+
+{
+// "_index" : "index-jsonld",
+// "_type" : "jsonld",       
+// "_id" : "quXvoG0BmtloPef37Wqb", 
+// "_source" : {
+    "@context" : "http://schema.org",
+    "@type" : "document",                                     
+    "source" : "./Banamex 2015/Banamex 2015.xls.Hoja2.csv",   
+    "info" : "{\"TDC\":\"4555456............}",               
+    "entities" : [
+        {
+            "@type" : "Person",
+            "name" : "all fields",                                      
+            "firstName" : "",
+            "lastName1" : "",
+            "lastName2" : ""
+        },
+        {
+            "@type" : "Organization",
+            "name" : "" 
+        },
+        {
+            "@type" : "PostalAddress",
+            "name" : "all fields"   ,
+            "postalCode": "cp",
+            "streetAddress": "domicilio",
+            "addressRegion" : "colonia",
+            "addressLocality" : "ciudad",
+            "addressState" : "estado-municipio"
+        },
+        {
+            "@type" : "CreditCard",
+            "name" : ""                                    
+        },
+        {
+            "@type" : "Telephone",
+            "name" : ""                                    
+        },
+        {
+            "@type" : "Ife",
+            "name" : ""                                    
+        }
+    ]
+// }
+}
